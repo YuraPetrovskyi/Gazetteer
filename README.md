@@ -70,7 +70,7 @@ Gazetteer is a dynamic web application that provides detailed information about 
 ### Steps
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/gazetteer.git
+   git clone https://github.com/YuraPetrovskyi/Gazetteer.git
    ```
 2. Navigate to the project directory:
    ```bash
