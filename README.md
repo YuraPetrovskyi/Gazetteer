@@ -74,7 +74,7 @@ Gazetteer is a dynamic web application that provides detailed information about 
    ```
 2. Navigate to the project directory:
    ```bash
-   cd gazetteer
+   cd Gazetteer
    ```
 3. Install PHP dependencies:
    ```bash
@@ -95,7 +95,7 @@ Gazetteer is a dynamic web application that provides detailed information about 
    ```
 6. Start the project:
    - For local development, place the project in your web server's root directory (e.g., `htdocs` for XAMPP).
-   - Access the application in your browser at `http://localhost/gazetteer`.
+   - Access the application in your browser at `http://localhost/Gazetteer`.
 
 ## Usage
 
